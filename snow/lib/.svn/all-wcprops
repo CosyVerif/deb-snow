@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/service-gspn2/!svn/ver/4/trunk/src/main/cc/libPetri/lib
+END
+GmarkParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/service-gspn2/!svn/ver/4/trunk/src/main/cc/libPetri/lib/GmarkParser.h
+END
+GfuncParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/service-gspn2/!svn/ver/4/trunk/src/main/cc/libPetri/lib/GfuncParser.h
+END
+GuardParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/service-gspn2/!svn/ver/4/trunk/src/main/cc/libPetri/lib/GuardParser.h
+END
+GcolParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/service-gspn2/!svn/ver/4/trunk/src/main/cc/libPetri/lib/GcolParser.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/service-gspn2/!svn/ver/4/trunk/src/main/cc/libPetri/lib/Makefile.am
+END
+tobsParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/service-gspn2/!svn/ver/4/trunk/src/main/cc/libPetri/lib/tobsParser.h
+END
+GguardParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/service-gspn2/!svn/ver/4/trunk/src/main/cc/libPetri/lib/GguardParser.h
+END
+MarkParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/service-gspn2/!svn/ver/4/trunk/src/main/cc/libPetri/lib/MarkParser.h
+END
+FuncParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/service-gspn2/!svn/ver/4/trunk/src/main/cc/libPetri/lib/FuncParser.h
+END

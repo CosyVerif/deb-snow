@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/service-gspn2/!svn/ver/7/trunk/src/main/cc/libPetri
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/service-gspn2/!svn/ver/4/trunk/src/main/cc/libPetri/configure.ac
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/service-gspn2/!svn/ver/4/trunk/src/main/cc/libPetri/AUTHORS
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/service-gspn2/!svn/ver/4/trunk/src/main/cc/libPetri/INSTALL
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/service-gspn2/!svn/ver/4/trunk/src/main/cc/libPetri/ChangeLog
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/service-gspn2/!svn/ver/4/trunk/src/main/cc/libPetri/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/service-gspn2/!svn/ver/4/trunk/src/main/cc/libPetri/Makefile.am
+END
+TOBS_FORMAT_README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/service-gspn2/!svn/ver/4/trunk/src/main/cc/libPetri/TOBS_FORMAT_README.txt
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/service-gspn2/!svn/ver/4/trunk/src/main/cc/libPetri/NEWS
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/service-gspn2/!svn/ver/4/trunk/src/main/cc/libPetri/aclocal.m4
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/service-gspn2/!svn/ver/4/trunk/src/main/cc/libPetri/README
+END

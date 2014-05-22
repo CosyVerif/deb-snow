@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/service-gspn2/!svn/ver/4/trunk/src/main/cc/libPetri/parsers/gspn
+END
+parsedef.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/service-gspn2/!svn/ver/4/trunk/src/main/cc/libPetri/parsers/gspn/parsedef.h
+END
+defparser.yacc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/service-gspn2/!svn/ver/4/trunk/src/main/cc/libPetri/parsers/gspn/defparser.yacc
+END
+parsedef.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/service-gspn2/!svn/ver/4/trunk/src/main/cc/libPetri/parsers/gspn/parsedef.cpp
+END
