@@ -39,7 +39,6 @@ HEADERFILES = ../interfaces/Arc.h          ../interfaces/Marking.h        ../int
 
 cami2gspn_SOURCES = $(CPPFILES) $(HEADERFILES) $(LYFILES) ../sources/cami2gspn.cc
 cami2smart_SOURCES = $(CPPFILES) $(HEADERFILES) $(LYFILES) ../sources/cami2smart.cc
-
 # -g -Wextra
 
 AM_CPPFLAGS = -I ../interfaces -Wall -O3
